@@ -1,5 +1,5 @@
 # 💫 About Me:
- Enthusiastic Software Engineer with 1 year and 8 months of experience, seeking a Front-End Developer/Full stack opportunities to leverage <br>my passion for building user-centric web applications. <br>Possesses strong proficiency in:<br><br>Front-End Development: JavaScript, TypeScript, React.js, Redux<br>Back-End Development: Node.js, Express.js, Java<br>Docker, DevOps, Git, GitHub<br>Emerging Technologies: Prompt Engineering, Generative AI 
+ Enthusiastic Software Engineer with 1 year and 8 months of experience, seeking a Front-End Developer/Full stack opportunities to leverage my passion for building user-centric web applications. <br>Possesses strong proficiency in:<br><br>Front-End Development: JavaScript, TypeScript, React.js, Redux<br>Back-End Development: Node.js, Express.js, Java<br>Docker, DevOps, Git, GitHub<br>Emerging Technologies: Prompt Engineering, Generative AI 
 
 
 # 💻 Tech Stack:
